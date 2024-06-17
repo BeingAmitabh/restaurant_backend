@@ -4,3 +4,4 @@
 Link
 https://restot-app.netlify.app/
    
+Enable CORS to view features like "Add to Cart" for ordering and a list of restaurants.
